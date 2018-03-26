@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "menu":[
+    {
+      "title":"Latest News",
+      "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League/Arsenal",
+      "load":"text",
+      "removeFirstCss":"",
+      "removeAllButCss":"",
+      "runScript":"",
+      "show":"main",
+      "action":{
+        "load":"url",
+        "removeFirstCss":"",
+        "removeAllButCss":"",
+        "runScript":"",
+        "show":"main"
+      },
+      "orientation":"portrait",
+      "getContent":[
+      ]
+    },
+    {
+      "title":"Football Game",
+      "link":"http://media2.y8.com/touchscreen/goal_goal_goal/",
+      "load":"url",
+      "removeFirstCss":"",
+      "removeAllButCss":"",
+      "runScript":"",
+      "show":"detail",
+      "action": {},
+      "orientation":"landscape"
+    }
+  ]
+}
