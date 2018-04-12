@@ -1,0 +1,27 @@
+{
+  "Version": "1.0",
+  "userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
+  "AdsIdAppAds": "ca-app-pub-3988316244362361~3513216050",
+  "AdsIdBanner": "",
+  "AdsIdNative": "",
+  "AdsIdFullmh": "ca-app-pub-3988316244362361/9939023606",
+  "AdsFullRand": "15",
+  "AdsFullFirs": "0",
+  "ListClb": [
+    {
+      "Name": "Manchester United",
+      "Flag": "http://www.symbols.com/gi.php?type=1&id=2091&i=1",
+      "Link": ""
+    },
+    {
+      "Name": "Arsenal",
+      "Flag": "http://www.symbols.com/gi.php?type=1&id=2089&i=1",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    }
+  ]
+}
