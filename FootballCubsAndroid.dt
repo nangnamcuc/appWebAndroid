@@ -1,6 +1,6 @@
 {
   "Version": "1.0",
-  "userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
+  "UserAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
   "AdsIdAppAds": "ca-app-pub-3988316244362361~3513216050",
   "AdsIdBanner": "",
   "AdsIdNative": "",
