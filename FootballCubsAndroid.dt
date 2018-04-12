@@ -8,6 +8,7 @@
   "AdsFullRand": "15",
   "AdsFullFirs": "0",
   "ServerCate": "http://45.77.171.72:4141/?query=",
+  "ServerClip": "http://45.77.171.72:2222/GetVideoClip.aspx",
   "ListClb": [
     {
       "Name": "Manchester United",
