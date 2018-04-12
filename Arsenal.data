@@ -1,35 +1,69 @@
 {
-  "version": "1.0",
-  "userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
+  "cate":{
+    "Query": "23869-2178-844",
+    "Stt": 50,
+    "css": ".central_ln_wrap .newsfeed  a.hll",
+    "linkId":[
+      {"cut": [
+        "/<d>l-1",
+        "?<d>0"
+      ]}
+    ],
+    "linkGoc":[
+      {"thay": "/A/<d>/A/2/"}
+    ]
+  },
   "menu":[
     {
+      "type":"news",
       "title":"Latest News",
+      "Stt": 1,
       "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League/Arsenal",
-      "load":"text",
-      "removeFirstCss":"",
-      "removeAllButCss":"",
-      "runScript":"",
-      "show":"main",
-      "action":{
-        "load":"url",
-        "removeFirstCss":"",
-        "removeAllButCss":"",
-        "runScript":"",
-        "show":"main"
-      },
-      "orientation":"portrait",
-      "getContent":[
+      "css": ".central_ln_wrap .newsfeed  a.hll",
+      "cssText": "",
+      "linkGoc":[
+        {"thay": "/A/<d>/A/2/"}
       ]
     },
     {
+      "type":"news",
+      "title":"Top Stories",
+      "Stt": 2,
+      "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League/Arsenal?type=ts",
+      "css": ".newsmain_wrap .newsfeed  a.hll",
+      "cssText": "",
+      "linkGoc":[
+        {"thay": "/A/<d>/A/2/"}
+      ]
+    },
+    {
+      "type":"clip",
+      "title":"Full Match",
+      "Stt": 3,
+      "query":"?name=arsenal&fullMatch=1"
+    },
+    {
+      "type":"clip",
+      "title":"Arsenal Clip",
+      "Stt": 4,
+      "query":"?name=arsenal&fullMatch=0"
+    },
+    {
+      "type":"clip",
+      "title":"Football Clip",
+      "Stt": 5,
+      "query":"?name=&fullMatch=2"
+    }
+  ],
+  "menuOption":[
+    {
+      "type": "webView",
       "title":"Football Game",
+      "Stt": 1,
       "link":"http://media2.y8.com/touchscreen/goal_goal_goal/",
       "load":"url",
-      "removeFirstCss":"",
-      "removeAllButCss":"",
       "runScript":"",
       "show":"detail",
-      "action": {},
       "orientation":"landscape"
     }
   ]
