@@ -26,10 +26,21 @@
   ],
   "CateChung":[
      {
-      "type":"listLink",
-      "title":"Latest News",
+      "type":"news",
+      "title":"Premier League News",
       "Stt": 20,
-      "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League/Arsenal",
+      "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League",
+      "css": ".central_ln_wrap .newsfeed  a.hll",
+      "cssText": "",
+      "linkGoc":[
+        {"thay": "/A/<d>/A/2/"}
+      ]
+    },
+    {
+      "type":"news",
+      "title":"FIFA World Cup News",
+      "Stt": 21,
+      "link":"http://www.newsnow.co.uk/h/Sport/Football/International/FIFA+World+Cup",
       "css": ".central_ln_wrap .newsfeed  a.hll",
       "cssText": "",
       "linkGoc":[
