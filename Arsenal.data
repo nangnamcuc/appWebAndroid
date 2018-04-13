@@ -62,6 +62,23 @@
       "runScript":"",
       "show":"detail",
       "orientation":"landscape"
+    },
+    {
+      "type": "webView",
+      "title":"Fixtures & Results",
+      "Stt": 2,
+      "link":"http://www.tablesleague.com/teams/arsenal1/",
+      "load":"html",
+      "runScript":"",
+      "show":"detail",
+      "orientation":"landscape",
+      "content":[
+        {"cut":[
+          "<table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><d>l-1",
+          "</table><d>0"
+        ]},
+        {"add":"<html><style>.html_table{text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}.form {width: 15px;height: 14px;color: white;font-size: 7pt;font-weight: bold;text-align: center;border-radius: 2px;cursor: pointer;line-height: 14px;}.form.won {background: #1ec229;}.form.lost {background: #eb1b1b;}.form.draw {background: #c6b203;}</style><body><table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><ddd></table><body></html>"}
+      ]
     }
   ]
 }
