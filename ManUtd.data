@@ -2,13 +2,9 @@
   "cate":{
     "Query": "23869-2178-5491",
     "Stt": 50,
+    "type":"news",
     "css": ".central_ln_wrap .newsfeed  a.hll",
-    "linkId":[
-      {"cut": [
-        "/<d>l-1",
-        "?<d>0"
-      ]}
-    ],
+    "cssText": "",
     "linkGoc":[
       {"thay": "/A/<d>/A/2/"}
     ]
