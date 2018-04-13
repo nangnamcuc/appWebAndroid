@@ -55,30 +55,37 @@
   "menuOption":[
     {
       "type": "webView",
-      "title":"Football Game",
+      "title":"Players",
       "Stt": 1,
-      "link":"http://media2.y8.com/touchscreen/goal_goal_goal/",
-      "load":"url",
+      "link":"http://www.tablesleague.com/teams/arsenal1/",
+      "load":"html",
       "runScript":"",
       "show":"detail",
-      "orientation":"landscape"
+      "orientation":"po",
+      "content":[
+        {"cut":[
+          "Goalkeepers</div><d>l-1",
+          "<div style=\"float: left;<d>0"
+        ]},
+        {"add":"<html><style>.position_name {height: 22px;line-height: 22px;border-top-left-radius: 4px;border-top-right-radius: 4px;margin: 4px 0 0 0;background: #404040;color: white;padding: 0 0 0 4px !important;}.html_table {text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}a img {border: 0;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><div class=\"position_name\">» Arsenal <ddd><body></html>"}
+      ]
     },
     {
       "type": "webView",
       "title":"Fixtures & Results",
       "Stt": 2,
-      hideTitle:1,
       "link":"http://www.tablesleague.com/teams/arsenal1/",
       "load":"html",
       "runScript":"",
       "show":"detail",
+      "hideTitle":1,
       "orientation":"landscape",
       "content":[
         {"cut":[
           "<table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><d>l-1",
           "</table><d>0"
         ]},
-        {"add":"<html><style>.html_table{text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}.form {width: 15px;height: 14px;color: white;font-size: 7pt;font-weight: bold;text-align: center;border-radius: 2px;cursor: pointer;line-height: 14px;}.form.won {background: #1ec229;}.form.lost {background: #eb1b1b;}.form.draw {background: #c6b203;}</style><body><table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><ddd></table><body></html>"}
+        {"add":"<html><style>.html_table{text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}.form {width: 15px;height: 14px;color: white;font-size: 7pt;font-weight: bold;text-align: center;border-radius: 2px;cursor: pointer;line-height: 14px;}.form.won {background: #1ec229;}.form.lost {background: #eb1b1b;}.form.draw {background: #c6b203;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><ddd></table><body></html>"}
       ]
     }
   ]
