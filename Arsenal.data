@@ -67,6 +67,7 @@
       "type": "webView",
       "title":"Fixtures & Results",
       "Stt": 2,
+      hideTitle:1,
       "link":"http://www.tablesleague.com/teams/arsenal1/",
       "load":"html",
       "runScript":"",
