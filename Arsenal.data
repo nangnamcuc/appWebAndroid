@@ -112,7 +112,6 @@
       "load":"html",
       "runScript":"var y = document.querySelectorAll('a');for(var i=0;i<y.length;i++){y[i].setAttribute('href','javascript:void(null);');}",
       "show":"detail",
-      "hideTitle":1,
       "orientation":"po",
       "content":[
         {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
@@ -130,7 +129,6 @@
       "load":"html",
       "runScript":"var y = document.querySelectorAll('a');for(var i=0;i<y.length;i++){y[i].setAttribute('href','javascript:void(null);');}",
       "show":"detail",
-      "hideTitle":1,
       "orientation":"po",
       "content":[
         {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
@@ -149,7 +147,7 @@
       "runScript":"var y = document.querySelectorAll('a');for(var i=0;i<y.length;i++){y[i].setAttribute('href','javascript:void(null);');}",
       "show":"detail",
       "hideTitle":1,
-      "orientation":"po",
+      "orientation":"landscape",
       "content":[
         {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
         {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d> "},
