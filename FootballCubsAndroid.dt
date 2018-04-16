@@ -25,14 +25,261 @@
   },
   "ListClb": [
     {
+      "Name": "Arsenal",
+      "Flag": "http://www.symbols.com/gi.php?type=1&id=2089&i=1",
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Arsenal.data"
+    },
+    {
+      "Name": "AFC Bournemouth",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Brighton & Hove Albion",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Burnley",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Chelsea",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Crystal Palace",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Everton",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Huddersfield Town",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Leicester City",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Manchester City",
+      "Flag": "",
+      "Link": ""
+    },
+    {
       "Name": "Manchester United",
       "Flag": "http://www.symbols.com/gi.php?type=1&id=2091&i=1",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/ManUtd.data"
     },
     {
-      "Name": "Arsenal",
-      "Flag": "http://www.symbols.com/gi.php?type=1&id=2089&i=1",
-      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Arsenal.data"
+      "Name": "Newcastle United",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Southampton",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Stoke City",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Swansea City",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Tottenham Hotspur",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Watford",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "West Bromwich Albion",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "West Ham United",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "La Liga",
+      "Flag": "",
+      "Link": "",
+      "Tags": "Atletico Madrid,Atl.Madrid,Deportivo La Coruna,Malaga,Sevilla,Valencia,Villarreal"
+    },
+    {
+      "Name": "Barcelona",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Real Madrid",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Serie A",
+      "Flag": "",
+      "Link": "",
+      "Tags": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
+    },
+    {
+      "Name": "Liverpool",
+      "Flag": "",
+      "Link": ""
     },
     {
       "Name": "Liverpool",
