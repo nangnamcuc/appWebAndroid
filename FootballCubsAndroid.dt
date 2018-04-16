@@ -26,244 +26,244 @@
   "ListClb": [
     {
       "Name": "Arsenal",
-      "Flag": "http://www.symbols.com/gi.php?type=1&id=2089&i=1",
+      "Flag": "http://45.77.171.72:2222/Flags/Arsenal.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Arsenal.data"
     },
     {
       "Name": "AFC Bournemouth",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/AFCBournemouth.png",
       "Link": ""
     },
     {
       "Name": "Brighton & Hove Albion",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/BrightonHoveAlbion.png",
       "Link": ""
     },
     {
       "Name": "Burnley",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Burnley.png",
       "Link": ""
     },
     {
       "Name": "Chelsea",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Chelsea.png",
       "Link": ""
     },
     {
       "Name": "Crystal Palace",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/CrystalPalace.png",
       "Link": ""
     },
     {
       "Name": "Everton",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Everton.png",
       "Link": ""
     },
     {
       "Name": "Huddersfield Town",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/HuddersfieldTown.png",
       "Link": ""
     },
     {
       "Name": "Leicester City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/LeicesterCity.png",
       "Link": ""
     },
     {
       "Name": "Liverpool",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Liverpool.png",
       "Link": ""
     },
     {
       "Name": "Manchester City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/ManchesterCity.png",
       "Link": ""
     },
     {
       "Name": "Manchester United",
-      "Flag": "http://www.symbols.com/gi.php?type=1&id=2091&i=1",
+      "Flag": "http://45.77.171.72:2222/Flags/ManchesterUnited.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/ManUtd.data"
     },
     {
       "Name": "Newcastle United",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/NewcastleUnited.png",
       "Link": ""
     },
     {
       "Name": "Southampton",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Southampton.png",
       "Link": ""
     },
     {
       "Name": "Stoke City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/StokeCity.png",
       "Link": ""
     },
     {
       "Name": "Swansea City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/SwanseaCity.png",
       "Link": ""
     },
     {
       "Name": "Tottenham Hotspur",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/TottenhamHotspur.png",
       "Link": ""
     },
     {
       "Name": "Watford",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Watford.png",
       "Link": ""
     },
     {
       "Name": "West Bromwich Albion",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/WestBromwichAlbion.png",
       "Link": ""
     },
     {
       "Name": "West Ham United",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/WestHamUnited.png",
       "Link": ""
     },
     {
       "Name": "La Liga",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/LaLiga.png",
       "Link": "",
       "Tags": "Atletico Madrid,Atl.Madrid,Deportivo La Coruna,Malaga,Sevilla,Valencia,Villarreal,Athletic Bilbao,Atletico de Madrid,Barcelona,Real Madrid,Malaga,Osasuna,Real Betis,Real Zaragoza"
     },
     {
       "Name": "Barcelona",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Barcelona.png",
       "Link": ""
     },
     {
       "Name": "Real Madrid",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/RealMadrid.png",
       "Link": ""
     },
     {
       "Name": "Serie A",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/SerieA.png",
       "Link": "",
       "Tags": "AC Milan,Fiorentina,Inter Milan,Juventus,Lazio,Napoli,Roma,Sampdoria,Atalanta,Bologna,Cagliari,Chievo,Empoli,Fiorentina,Genoa,Palermo,Torino,Udinese,Bari,Catania,Hellas Verona,Lecce,Parma,Pescara,Reggina,Siena"
     },
     {
       "Name": "Aston Villa",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/AstonVilla.png",
       "Link": ""
     },
     {
       "Name": "Barnsley",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Barnsley.png",
       "Link": ""
     },
     {
       "Name": "Birmingham City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/BirminghamCity.png",
       "Link": ""
     },
     {
       "Name": "Bolton Wanderers",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/BoltonWanderers.png",
       "Link": ""
     },
     {
       "Name": "Brentford",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Brentford.png",
       "Link": ""
     },
     {
       "Name": "Bristol City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/BristolCity.png",
       "Link": ""
     },
     {
       "Name": "Burton Albion",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/BurtonAlbion.png",
       "Link": ""
     },
     {
       "Name": "Cardiff City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/CardiffCity.png",
       "Link": ""
     },
     {
       "Name": "Derby County",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/DerbyCounty.png",
       "Link": ""
     },
     {
       "Name": "Fulham",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Fulham.png",
       "Link": ""
     },
     {
       "Name": "Hull City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/HullCity.png",
       "Link": ""
     },
     {
       "Name": "Ipswich Town",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/IpswichTown.png",
       "Link": ""
     },
     {
       "Name": "Leeds United",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/LeedsUnited.png",
       "Link": ""
     },
     {
       "Name": "Middlesbrough",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Middlesbrough.png",
       "Link": ""
     },
     {
       "Name": "Millwall",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Millwall.png",
       "Link": ""
     },
     {
       "Name": "Norwich City",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/NorwichCity.png",
       "Link": ""
     },
     {
       "Name": "Nottingham Forest",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/NottinghamForest.png",
       "Link": ""
     },
     {
       "Name": "Preston North End",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/PrestonNorthEnd.png",
       "Link": ""
     },
     {
       "Name": "Queens Park Rangers",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/QueensParkRangers.png",
       "Link": ""
     },
     {
       "Name": "Reading",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Reading.png",
       "Link": ""
     },
     {
       "Name": "Sheffield United",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/SheffieldUnited.png",
       "Link": ""
     },
     {
       "Name": "Sheffield Wednesday",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/SheffieldWednesday.png",
       "Link": ""
     },
     {
       "Name": "Sunderland",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Sunderland.png",
       "Link": ""
     },
     {
       "Name": "Wolves",
-      "Flag": "",
+      "Flag": "http://45.77.171.72:2222/Flags/Wolves.png",
       "Link": ""
     },
     {
