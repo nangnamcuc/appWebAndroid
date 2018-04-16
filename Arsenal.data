@@ -115,8 +115,8 @@
       "hideTitle":1,
       "orientation":"po",
       "content":[
-        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d>"},
-        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d>"},
+        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
+        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d> "},
         {"thay":"320pxpx<d>100%"}
       ]
     },
@@ -131,8 +131,8 @@
       "hideTitle":1,
       "orientation":"po",
       "content":[
-        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d>"},
-        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d>"},
+        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
+        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d> "},
         {"thay":"320pxpx<d>100%"}
       ]
     },
@@ -147,8 +147,8 @@
       "hideTitle":1,
       "orientation":"po",
       "content":[
-        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d>"},
-        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d>"},
+        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
+        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d> "},
         {"thay":"320pxpx<d>100%"}
       ]
     }
