@@ -32,52 +32,52 @@
     {
       "Name": "AFC Bournemouth",
       "Flag": "http://45.77.171.72:2222/Flags/AFCBournemouth.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/AFCBournemouth.data"
     },
     {
       "Name": "Brighton & Hove Albion",
       "Flag": "http://45.77.171.72:2222/Flags/BrightonHoveAlbion.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/BrightonHoveAlbion.data"
     },
     {
       "Name": "Burnley",
       "Flag": "http://45.77.171.72:2222/Flags/Burnley.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Burnley.data"
     },
     {
       "Name": "Chelsea",
       "Flag": "http://45.77.171.72:2222/Flags/Chelsea.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Chelsea.data"
     },
     {
       "Name": "Crystal Palace",
       "Flag": "http://45.77.171.72:2222/Flags/CrystalPalace.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/CrystalPalace.data"
     },
     {
       "Name": "Everton",
       "Flag": "http://45.77.171.72:2222/Flags/Everton.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Everton.data"
     },
     {
       "Name": "Huddersfield Town",
       "Flag": "http://45.77.171.72:2222/Flags/HuddersfieldTown.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/HuddersfieldTown.data"
     },
     {
       "Name": "Leicester City",
       "Flag": "http://45.77.171.72:2222/Flags/LeicesterCity.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/LeicesterCity.data"
     },
     {
       "Name": "Liverpool",
       "Flag": "http://45.77.171.72:2222/Flags/Liverpool.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Liverpool.data"
     },
     {
       "Name": "Manchester City",
       "Flag": "http://45.77.171.72:2222/Flags/ManchesterCity.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/ManchesterCity.data"
     },
     {
       "Name": "Manchester United",
@@ -87,42 +87,42 @@
     {
       "Name": "Newcastle United",
       "Flag": "http://45.77.171.72:2222/Flags/NewcastleUnited.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/NewcastleUnited.data"
     },
     {
       "Name": "Southampton",
       "Flag": "http://45.77.171.72:2222/Flags/Southampton.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Southampton.data"
     },
     {
       "Name": "Stoke City",
       "Flag": "http://45.77.171.72:2222/Flags/StokeCity.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/StokeCity.data"
     },
     {
       "Name": "Swansea City",
       "Flag": "http://45.77.171.72:2222/Flags/SwanseaCity.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/SwanseaCity.data"
     },
     {
       "Name": "Tottenham Hotspur",
       "Flag": "http://45.77.171.72:2222/Flags/TottenhamHotspur.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/TottenhamHotspur.data"
     },
     {
       "Name": "Watford",
       "Flag": "http://45.77.171.72:2222/Flags/Watford.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Watford.data"
     },
     {
       "Name": "West Bromwich Albion",
       "Flag": "http://45.77.171.72:2222/Flags/WestBromwichAlbion.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/WestBromwichAlbion.data"
     },
     {
       "Name": "West Ham United",
       "Flag": "http://45.77.171.72:2222/Flags/WestHamUnited.png",
-      "Link": ""
+      "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/WestHamUnited.data"
     },
     {
       "Name": "La Liga",
