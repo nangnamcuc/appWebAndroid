@@ -106,7 +106,7 @@
     },
     {
       "type": "webView",
-      "title":"Everton Tables",
+      "title":"Huddersfield Tables",
       "Stt": 3,
       "link":"http://45.77.171.72:4141/Tables.aspx?team=Huddersfield",
       "load":"url",
