@@ -1,0 +1,138 @@
+{
+"Color":"#37001C",
+  "cate":{
+    "Query": "23869-2178-788",
+    "Stt": 50,
+    "type":"news",
+    "css": ".central_ln_wrap .newsfeed  a.hll",
+    "cssText": "",
+    "linkGoc":[
+      {"thay": "/A/<d>/A/2/"}
+    ]
+  },
+  "menu":[
+    {
+      "type":"news",
+      "title":"Latest News",
+      "Stt": 1,
+      "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League/West+Ham+United",
+      "css": ".central_ln_wrap .newsfeed  a.hll",
+      "cssText": "",
+      "linkGoc":[
+        {"thay": "/A/<d>/A/2/"}
+      ]
+    },
+    {
+      "type":"news",
+      "title":"Top Stories",
+      "Stt": 2,
+      "link":"http://www.newsnow.co.uk/h/Sport/Football/Premier+League/West+Ham+United?type=ts",
+      "css": ".newsmain_wrap .newsfeed  a.hll",
+      "cssText": "",
+      "linkGoc":[
+        {"thay": "/A/<d>/A/2/"}
+      ]
+    },
+    {
+      "type":"clip",
+      "title":"Full Match",
+      "Stt": 3,
+      "query":"?name=West%20Ham%20United&fullMatch=1"
+    },
+    {
+      "type":"clip",
+      "title":"West Ham United Clip",
+      "Stt": 4,
+      "query":"?name=West%20Ham%20United&fullMatch=0"
+    },
+    {
+      "type":"clip",
+      "title":"Football Clip",
+      "Stt": 5,
+      "query":"?name=&fullMatch=2"
+    }
+  ],
+  "menuOption":[
+    {
+      "type": "webView",
+      "title":"Players",
+      "Stt": 1,
+      "link":"http://www.tablesleague.com/teams/west_ham1/",
+      "load":"html",
+      "runScript":"",
+      "show":"detail",
+      "orientation":"po",
+      "content":[
+        {"cut":[
+          "Goalkeepers</div><d>l-1",
+          "<div style=\"float: left;<d>0"
+        ]},
+        {"add":"<html><style>.position_name {height: 22px;line-height: 22px;border-top-left-radius: 4px;border-top-right-radius: 4px;margin: 4px 0 0 0;background: #404040;color: white;padding: 0 0 0 4px !important;}.html_table {text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}a img {border: 0;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:CallAndroid.openDetail(\"http://www.tablesleague.com'+as[i].getAttribute('href') +'\",\"'+as[i].innerHTML+'\");');}}</script><body onload='loadCom();'><div class=\"position_name\">» West Ham United <ddd><body></html>"}
+      ],
+      "objDetail":{
+        "type": "webView",
+        "Stt": 1,
+        "load":"html",
+        "runScript":"",
+        "show":"detail",
+        "hideTitle":1,
+        "orientation":"landscape",
+        "content":[
+          {"cut":[
+            "<div class=\"content\"><d>l-1",
+            "<div class=\"right_menu\"><d>0"
+          ]},
+          {"add":"<html><style>*{margin:0;padding:0}.html_table {text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}h1 {margin: 0 0 10px 0;font-size: 11pt;padding: 0;}.header {clear: both;margin-top: 10px;font-weight: bold;border-top-left-radius: 4px;border-top-right-radius: 4px;color: white;padding: 0 4px;height: 22px;line-height: 22px;font-size: 9pt;margin-bottom: 1px;}.head_group.gmatches {width: 107px;margin-left: 402px;}.head_group {font-size: 8pt;font-weight: bold;border-bottom: 1px #dcdbdb solid;border-left: 1px #dcdbdb solid;text-align: center;float: left;line-height: 22px;height: 22px;color: #404040;margin: 0;padding: 0;}.head_group.gfirst_line {width: 96px;}.head_group.gcards {width: 72px;}.note {background: #e3e3e3;padding: 8px;}.player_profil {display: table;width: 400px;float: left;}.player_profil .row {display: table-row;line-height: 20px;}.player_profil .cell {display: table-cell;}.player_profil .name {font-weight: bold;}a {color: #1399bf;text-decoration: none;}.player_image {float: right;border-radius: 5px;background: #c7c7c7;padding: 10px;}.player_image img {width: 140px;}.header {background: url(http://www.tablesleague.com/images/header_bg_red.gif) !important;}.head_grop_parent {height: 23px;background: #e3e3e3;clear: both;}.carrier {color: #404040;display: table;width: 100%;font-size: 8pt;}.carrier .row {display: table-row;line-height: 22px;min-height: 22px;}.carrier .row:nth-child(odd) {background: #f4f4f4;}.carrier .cell:first-child {padding-left: 5px;}.carrier .head {background: #e3e3e3;font-weight: bold;}.carrier .cell {display: table-cell;}.carrier .season {width: 70px;}.carrier .cell.block {border-right: 1px #dcdbdb solid;}.carrier .cell.min {width: 34px;}.carrier .cell.ico {text-align: center;width: 24px;}.carrier .parent {border-top: 1px #dcdbdb solid;}.carrier .cell:first-child {padding-left: 5px;}.carrier .cell.ico:not(.head) {cursor: pointer;}.carrier .cell.block2 {border-left: 1px #dcdbdb solid;}.carrier .cell.block {border-right: 1px #dcdbdb solid;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><ddd><body></html>"}
+        ]
+      }
+    },
+    {
+      "type": "webView",
+      "title":"Fixtures & Results",
+      "Stt": 2,
+      "link":"http://www.tablesleague.com/teams/west_ham1/",
+      "load":"html",
+      "runScript":"",
+      "show":"detail",
+      "hideTitle":1,
+      "orientation":"landscape",
+      "content":[
+        {"cut":[
+          "<table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><d>l-1",
+          "</table><d>0"
+        ]},
+        {"add":"<html><style>.html_table{text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}.form {width: 15px;height: 14px;color: white;font-size: 7pt;font-weight: bold;text-align: center;border-radius: 2px;cursor: pointer;line-height: 14px;}.form.won {background: #1ec229;}.form.lost {background: #eb1b1b;}.form.draw {background: #c6b203;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><ddd></table><body></html>"}
+      ]
+    },
+    {
+      "type": "webView",
+      "title":"West Ham Tables",
+      "Stt": 3,
+      "link":"http://45.77.171.72:4141/Tables.aspx?team=West%20Ham",
+      "load":"url",
+      "runScript":"var y = document.querySelectorAll('a');for(var i=0;i<y.length;i++){y[i].setAttribute('href','javascript:void(null);');}",
+      "show":"detail",
+      "orientation":"po",
+      "content":[
+      ]
+    },
+    {
+      "type": "webView",
+      "title":"FA Cup Tables",
+      "Stt": 5,
+      "link":"http://www.tablesleague.com/iframe?width=320px&height=320px&font_name=Tahoma&position=1&font_size=12&team_link=1&link_color=404040&games=1&wins=1&draws=1&lost=1&goals=1&goals_against=1&gd=1&points=1&next=1&form=1&font_size=12&font_color=000000&bg_color=FFFFFF&header_font_color=FFFFFF&header_bg_color=1fb9e4&bg_col=1fb9e4&font_color_col=FFFFFF&highlight=e3e3e3&hover=fff6bf&league_header=1&league=l_150&team=",
+      "load":"html",
+      "runScript":"var y = document.querySelectorAll('a');for(var i=0;i<y.length;i++){y[i].setAttribute('href','javascript:void(null);');}",
+      "show":"detail",
+      "hideTitle":1,
+      "orientation":"landscape",
+      "content":[
+        {"thay":"<div style=\"text-align:center;\">Powered by <a href=\"http://www.tablesleague.com\" target=\"_blank\">TablesLeague.com</a></div><d> "},
+        {"thay":"<a href=\"http://www.tablesleague.com/\" target=\"_blank\" style=\"font-size:8pt;\">TablesLeague.com</a><d> "},
+        {"thay":"320pxpx<d>100%"},
+        {"thay":"320px<d>100%"},
+        {"thay":"/css/iframe.css<d>http://www.tablesleague.com/css/iframe.css"}
+      ]
+    }
+  ]
+}
