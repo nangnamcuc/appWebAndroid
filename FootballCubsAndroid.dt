@@ -287,6 +287,21 @@
       "Link": ""
     }
   ],
+  "OptionMenu":[
+    {
+      "type": "webView",
+      "title":"World Cup 2018 Qualifiers Tables",
+      "Stt": 20,
+      "link":"http://45.77.171.72:4141/Tables.aspx?file=world-cup-2018-qualifiers.txt",
+      "load":"url",
+      "runScript":"",
+      "show":"detail",
+      "hideTitle":1,
+      "orientation":"po",
+      "content":[
+      ]
+    }
+  ],
   "CateChung":[
      {
       "type":"news",
