@@ -1,12 +1,11 @@
 {
-  "Color":"#FF0000",
+  "Color":"#122145",
   "Version": "1.0",
   "UserAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
-  "AdsIdBanner": "",
-  "AdsIdAppAds": "ca-app-pub-3988316244362361~6553746081",
-  "AdsIdBanner1": "ca-app-pub-3988316244362361/5105056751",
-  "AdsIdNative": "ca-app-pub-3988316244362361/7074466741",
-  "AdsIdFullmh": "ca-app-pub-3988316244362361/3600403393",
+  "AdsIdAppAds": "ca-app-pub-3988316244362361~5613514565",
+  "AdsIdBanner": "ca-app-pub-3988316244362361/5665485453",
+  "AdsIdNative": "ca-app-pub-3988316244362361/8072156947",
+  "AdsIdFullmh": "ca-app-pub-3988316244362361/3599748839",
   "AdsFullRand": 6,
   "AdsFullFirs": 1,
   "ServerCate": "http://45.77.171.72:4141/?query=",
@@ -96,25 +95,41 @@
           "Top scorers Champions League</div><d>l-1",
           "</table><d>0"
         ]},
-        {"add":"<html><style>.position_name {height: 22px;line-height: 22px;border-top-left-radius: 4px;border-top-right-radius: 4px;margin: 4px 0 0 0;background: #404040;color: white;padding: 0 0 0 4px !important;}.html_table {text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}a img {border: 0;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:CallAndroid.openDetail(\"http://www.tablesleague.com'+as[i].getAttribute('href') +'\",\"'+as[i].innerHTML+'\");');}}</script><body onload='loadCom();'><div class=\"position_name\">» Arsenal Goalkeepers</div><ddd><body></html>"}
+        {"add":"<html><style>.html_table {text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;text-decoration: none;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><ddd></table><body></html>"}
       ]
     },
     {
       "type": "webView",
-      "title":"Fixtures",
+      "title":"Champions League Fixtures",
       "Stt": 2,
-      "link":"http://www.tablesleague.com/teams/arsenal1/",
+      "link":"http://www.skysports.com/champions-league-fixtures",
       "load":"html",
       "runScript":"",
       "show":"detail",
-      "hideTitle":1,
-      "orientation":"landscape",
+      "orientation":"po",
       "content":[
         {"cut":[
-          "<table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><d>l-1",
-          "</table><d>0"
+          "<div class=\"fixres__body<d>l-1",
+          "<div class=\"block advert--mpu<d>0"
         ]},
-        {"add":"<html><style>.html_table{text-align: center;border: 1px #E3E3E3 solid;border-collapse: collapse;margin-top: 1px;font-size: 11px;}.html_table td {height: 16px;border: 1px #E3E3E3 solid;}a {color: #1399bf;}.form {width: 15px;height: 14px;color: white;font-size: 7pt;font-weight: bold;text-align: center;border-radius: 2px;cursor: pointer;line-height: 14px;}.form.won {background: #1ec229;}.form.lost {background: #eb1b1b;}.form.draw {background: #c6b203;}</style><script type='text/javascript'>function loadCom(){var imgs = document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].setAttribute('src','http://www.tablesleague.com/'+imgs[i].getAttribute('src'));}var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><table width=\"100%\" border=\"1\" class=\"html_table\" id=\"results\"><ddd></table><body></html>"}
+        {"add":"<html><style>* {padding: 0;margin: 0;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}.fixres__header1 {text-align: center;font-weight: 200;font-size: 1.8em;padding: .7em 0 .5em;line-height: 1.2;}.fixres__header2 {background: #011b51;text-align: center;font-size: 1.125em;color: #fff;padding: .65em 0;line-height: 1;position: -webkit-sticky;position: sticky;top: 1px;}.fixres__item {text-align: center;border-top: 1px solid #dcdcdc;}.fixres__header1+.fixres__item, .fixres__header2+.fixres__item, .fixres__header3+.fixres__item {border-top: 0;}.matches__item {display: table;table-layout: fixed;width: 100%;will-change: contents;}a {text-decoration: none;-webkit-touch-callout: default;-ms-touch-action: auto;color: inherit;}.matches-block--large .matches__label, .matches-block--large .matches__info {width: 7em;font-size: .85em;line-height: 1.2em;}.matches__label {width: 3.1em;text-align: left;}.matches__item-col {position: relative;display: table-cell;height: 36px;vertical-align: middle;white-space: nowrap;text-align: center;overflow: hidden;font-family: 'SkyTextReg',sans-serif;font-weight: normal;font-size: 16px;font-size: 1rem;font-size: ;color: inherit;font-size: 1em;}.matches__participant {text-align: right;font-family: 'SkyTextMed',sans-serif;font-weight: normal;font-size: 16px;font-size: 1rem;font-size: ;color: inherit;font-size: 1em;text-overflow: ellipsis;}.matches__item-col {position: relative;display: table-cell;height: 36px;vertical-align: middle;white-space: nowrap;text-align: center;overflow: hidden;font-family: 'SkyTextReg',sans-serif;font-weight: normal;font-size: 16px;font-size: 1rem;font-size: ;color: inherit;font-size: 1em;}.matches__status {width: 3.74em;border-left: .3em solid transparent;border-right: .3em solid transparent;}.matches__teamscores {display: table;width: 100%;table-layout: fixed;border-collapse: separate;text-indent: -10em;letter-spacing: -1px;background: #d6181f;border-color: #d6181f;color: #fff;}.matches__date {display: none;}.matches__status+.matches__participant {text-align: left;}.matches__info, .matches__betting{display: none;}</style><script type='text/javascript'>function loadCom(){var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><div class=\"fixres__body<ddd><<body></html>"}
+      ]
+    },
+    {
+      "type": "webView",
+      "title":"Champions League Results",
+      "Stt": 2,
+      "link":"http://www.skysports.com/champions-league-results",
+      "load":"html",
+      "runScript":"",
+      "show":"detail",
+      "orientation":"po",
+      "content":[
+        {"cut":[
+          "<div class=\"fixres__body<d>l-1",
+          "<div class=\"block advert--mpu<d>0"
+        ]},
+        {"add":"<html><style>* {padding: 0;margin: 0;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}.fixres__header1 {text-align: center;font-weight: 200;font-size: 1.8em;padding: .7em 0 .5em;line-height: 1.2;}.fixres__header2 {background: #011b51;text-align: center;font-size: 1.125em;color: #fff;padding: .65em 0;line-height: 1;position: -webkit-sticky;position: sticky;top: 1px;}.fixres__item {text-align: center;border-top: 1px solid #dcdcdc;}.fixres__header1+.fixres__item, .fixres__header2+.fixres__item, .fixres__header3+.fixres__item {border-top: 0;}.matches__item {display: table;table-layout: fixed;width: 100%;will-change: contents;}a {text-decoration: none;-webkit-touch-callout: default;-ms-touch-action: auto;color: inherit;}.matches-block--large .matches__label, .matches-block--large .matches__info {width: 7em;font-size: .85em;line-height: 1.2em;}.matches__label {width: 3.1em;text-align: left;}.matches__item-col {position: relative;display: table-cell;height: 36px;vertical-align: middle;white-space: nowrap;text-align: center;overflow: hidden;font-family: 'SkyTextReg',sans-serif;font-weight: normal;font-size: 16px;font-size: 1rem;font-size: ;color: inherit;font-size: 1em;}.matches__participant {text-align: right;font-family: 'SkyTextMed',sans-serif;font-weight: normal;font-size: 16px;font-size: 1rem;font-size: ;color: inherit;font-size: 1em;text-overflow: ellipsis;}.matches__item-col {position: relative;display: table-cell;height: 36px;vertical-align: middle;white-space: nowrap;text-align: center;overflow: hidden;font-family: 'SkyTextReg',sans-serif;font-weight: normal;font-size: 16px;font-size: 1rem;font-size: ;color: inherit;font-size: 1em;}.matches__status {width: 3.74em;border-left: .3em solid transparent;border-right: .3em solid transparent;}.matches__teamscores {display: table;width: 100%;table-layout: fixed;border-collapse: separate;text-indent: -10em;letter-spacing: -1px;background: #d6181f;border-color: #d6181f;color: #fff;}.matches__date {display: none;}.matches__status+.matches__participant {text-align: left;}.matches__info, .matches__betting{display: none;}</style><script type='text/javascript'>function loadCom(){var as = document.getElementsByTagName('a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','javascript:void(null);');}}</script><body onload='loadCom();'><div class=\"fixres__body<ddd><<body></html>"}
       ]
     },
     {
