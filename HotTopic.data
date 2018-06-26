@@ -12,8 +12,8 @@
   "AdsIdNativeIOS": "",
   "AdsIdNativeIOS1": "ca-app-pub-3988316244362361/8137358595",
   "AdsIdFullmhIOS": "ca-app-pub-3988316244362361/6277482012",
-  "AdsFullRand": 3,
-  "AdsFullFirs": 1,
+  "AdsFullRand": 15,
+  "AdsFullFirs": 0,
   "LayIdQuangCaoCua": "boxing 4",
   "Server": "http://news2.eu/Api.aspx?",
   "Detail": {
