@@ -108,7 +108,7 @@
       "type": "webView",
       "title":"Man Utd Tables",
       "Stt": 3,
-      "link":"http://45.77.171.72:4141/Tables.aspx?team=Man%20Utd",
+      "link":"http://news2.eu:4141/Tables.aspx?team=Man%20Utd",
       "load":"url",
       "runScript":"var y = document.querySelectorAll('a');for(var i=0;i<y.length;i++){y[i].setAttribute('href','javascript:void(null);');}",
       "show":"detail",
