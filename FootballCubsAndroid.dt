@@ -8,8 +8,8 @@
   "AdsIdFullmh": "ca-app-pub-3988316244362361/3600403393",
   "AdsFullRand": 6,
   "AdsFullFirs": 1,
-  "ServerCate": "http://45.77.171.72:4141/?query=",
-  "ServerClip": "http://45.77.171.72:2222/GetVideoClip.aspx",
+  "ServerCate": "http://news2.eu:4141/?query=",
+  "ServerClip": "http://news2.eu:2222/GetVideoClip.aspx",
   "contentClip":[
     {"add":"<html style='background:white;'><head><script type='text/javascript'>function actionOnLoad(){var listimg = document.getElementsByTagName('iframe');var i=0; for(i=0;i<listimg.length;i++){listimg[i].style.width='100%';}}</script></head><body onload='actionOnLoad();'><ddd></body></html>"}
   ],
@@ -27,244 +27,244 @@
   "ListClb": [
     {
       "Name": "Arsenal",
-      "Flag": "http://45.77.171.72:2222/Flags/Arsenal.png",
+      "Flag": "http://news2.eu:2222/Flags/Arsenal.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Arsenal.data"
     },
     {
       "Name": "AFC Bournemouth",
-      "Flag": "http://45.77.171.72:2222/Flags/AFCBournemouth.png",
+      "Flag": "http://news2.eu:2222/Flags/AFCBournemouth.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/AFCBournemouth.data"
     },
     {
       "Name": "Brighton & Hove Albion",
-      "Flag": "http://45.77.171.72:2222/Flags/BrightonHoveAlbion.png",
+      "Flag": "http://news2.eu:2222/Flags/BrightonHoveAlbion.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/BrightonHoveAlbion.data"
     },
     {
       "Name": "Burnley",
-      "Flag": "http://45.77.171.72:2222/Flags/Burnley.png",
+      "Flag": "http://news2.eu:2222/Flags/Burnley.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Burnley.data"
     },
     {
       "Name": "Chelsea",
-      "Flag": "http://45.77.171.72:2222/Flags/Chelsea.png",
+      "Flag": "http://news2.eu:2222/Flags/Chelsea.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Chelsea.data"
     },
     {
       "Name": "Crystal Palace",
-      "Flag": "http://45.77.171.72:2222/Flags/CrystalPalace.png",
+      "Flag": "http://news2.eu:2222/Flags/CrystalPalace.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/CrystalPalace.data"
     },
     {
       "Name": "Everton",
-      "Flag": "http://45.77.171.72:2222/Flags/Everton.png",
+      "Flag": "http://news2.eu:2222/Flags/Everton.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Everton.data"
     },
     {
       "Name": "Huddersfield Town",
-      "Flag": "http://45.77.171.72:2222/Flags/HuddersfieldTown.png",
+      "Flag": "http://news2.eu:2222/Flags/HuddersfieldTown.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/HuddersfieldTown.data"
     },
     {
       "Name": "Leicester City",
-      "Flag": "http://45.77.171.72:2222/Flags/LeicesterCity.png",
+      "Flag": "http://news2.eu:2222/Flags/LeicesterCity.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/LeicesterCity.data"
     },
     {
       "Name": "Liverpool",
-      "Flag": "http://45.77.171.72:2222/Flags/Liverpool.png",
+      "Flag": "http://news2.eu:2222/Flags/Liverpool.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Liverpool.data"
     },
     {
       "Name": "Manchester City",
-      "Flag": "http://45.77.171.72:2222/Flags/ManchesterCity.png",
+      "Flag": "http://news2.eu:2222/Flags/ManchesterCity.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/ManchesterCity.data"
     },
     {
       "Name": "Manchester United",
-      "Flag": "http://45.77.171.72:2222/Flags/ManchesterUnited.png",
+      "Flag": "http://news2.eu:2222/Flags/ManchesterUnited.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/ManUtd.data"
     },
     {
       "Name": "Newcastle United",
-      "Flag": "http://45.77.171.72:2222/Flags/NewcastleUnited.png",
+      "Flag": "http://news2.eu:2222/Flags/NewcastleUnited.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/NewcastleUnited.data"
     },
     {
       "Name": "Southampton",
-      "Flag": "http://45.77.171.72:2222/Flags/Southampton.png",
+      "Flag": "http://news2.eu:2222/Flags/Southampton.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Southampton.data"
     },
     {
       "Name": "Stoke City",
-      "Flag": "http://45.77.171.72:2222/Flags/StokeCity.png",
+      "Flag": "http://news2.eu:2222/Flags/StokeCity.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/StokeCity.data"
     },
     {
       "Name": "Swansea City",
-      "Flag": "http://45.77.171.72:2222/Flags/SwanseaCity.png",
+      "Flag": "http://news2.eu:2222/Flags/SwanseaCity.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/SwanseaCity.data"
     },
     {
       "Name": "Tottenham Hotspur",
-      "Flag": "http://45.77.171.72:2222/Flags/TottenhamHotspur.png",
+      "Flag": "http://news2.eu:2222/Flags/TottenhamHotspur.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/TottenhamHotspur.data"
     },
     {
       "Name": "Watford",
-      "Flag": "http://45.77.171.72:2222/Flags/Watford.png",
+      "Flag": "http://news2.eu:2222/Flags/Watford.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/Watford.data"
     },
     {
       "Name": "West Bromwich Albion",
-      "Flag": "http://45.77.171.72:2222/Flags/WestBromwichAlbion.png",
+      "Flag": "http://news2.eu:2222/Flags/WestBromwichAlbion.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/WestBromwichAlbion.data"
     },
     {
       "Name": "West Ham United",
-      "Flag": "http://45.77.171.72:2222/Flags/WestHamUnited.png",
+      "Flag": "http://news2.eu:2222/Flags/WestHamUnited.png",
       "Link": "https://raw.githubusercontent.com/nangnamcuc/appWebAndroid/master/WestHamUnited.data"
     },
     {
       "Name": "La Liga",
-      "Flag": "http://45.77.171.72:2222/Flags/LaLiga.png",
+      "Flag": "http://news2.eu:2222/Flags/LaLiga.png",
       "Link": "",
       "Tags": "Atletico Madrid,Atl.Madrid,Deportivo La Coruna,Malaga,Sevilla,Valencia,Villarreal,Athletic Bilbao,Atletico de Madrid,Barcelona,Real Madrid,Malaga,Osasuna,Real Betis,Real Zaragoza"
     },
     {
       "Name": "Barcelona",
-      "Flag": "http://45.77.171.72:2222/Flags/Barcelona.png",
+      "Flag": "http://news2.eu:2222/Flags/Barcelona.png",
       "Link": ""
     },
     {
       "Name": "Real Madrid",
-      "Flag": "http://45.77.171.72:2222/Flags/RealMadrid.png",
+      "Flag": "http://news2.eu:2222/Flags/RealMadrid.png",
       "Link": ""
     },
     {
       "Name": "Serie A",
-      "Flag": "http://45.77.171.72:2222/Flags/SerieA.png",
+      "Flag": "http://news2.eu:2222/Flags/SerieA.png",
       "Link": "",
       "Tags": "AC Milan,Fiorentina,Inter Milan,Juventus,Lazio,Napoli,Roma,Sampdoria,Atalanta,Bologna,Cagliari,Chievo,Empoli,Fiorentina,Genoa,Palermo,Torino,Udinese,Bari,Catania,Hellas Verona,Lecce,Parma,Pescara,Reggina,Siena"
     },
     {
       "Name": "Aston Villa",
-      "Flag": "http://45.77.171.72:2222/Flags/AstonVilla.png",
+      "Flag": "http://news2.eu:2222/Flags/AstonVilla.png",
       "Link": ""
     },
     {
       "Name": "Barnsley",
-      "Flag": "http://45.77.171.72:2222/Flags/Barnsley.png",
+      "Flag": "http://news2.eu:2222/Flags/Barnsley.png",
       "Link": ""
     },
     {
       "Name": "Birmingham City",
-      "Flag": "http://45.77.171.72:2222/Flags/BirminghamCity.png",
+      "Flag": "http://news2.eu:2222/Flags/BirminghamCity.png",
       "Link": ""
     },
     {
       "Name": "Bolton Wanderers",
-      "Flag": "http://45.77.171.72:2222/Flags/BoltonWanderers.png",
+      "Flag": "http://news2.eu:2222/Flags/BoltonWanderers.png",
       "Link": ""
     },
     {
       "Name": "Brentford",
-      "Flag": "http://45.77.171.72:2222/Flags/Brentford.png",
+      "Flag": "http://news2.eu:2222/Flags/Brentford.png",
       "Link": ""
     },
     {
       "Name": "Bristol City",
-      "Flag": "http://45.77.171.72:2222/Flags/BristolCity.png",
+      "Flag": "http://news2.eu:2222/Flags/BristolCity.png",
       "Link": ""
     },
     {
       "Name": "Burton Albion",
-      "Flag": "http://45.77.171.72:2222/Flags/BurtonAlbion.png",
+      "Flag": "http://news2.eu:2222/Flags/BurtonAlbion.png",
       "Link": ""
     },
     {
       "Name": "Cardiff City",
-      "Flag": "http://45.77.171.72:2222/Flags/CardiffCity.png",
+      "Flag": "http://news2.eu:2222/Flags/CardiffCity.png",
       "Link": ""
     },
     {
       "Name": "Derby County",
-      "Flag": "http://45.77.171.72:2222/Flags/DerbyCounty.png",
+      "Flag": "http://news2.eu:2222/Flags/DerbyCounty.png",
       "Link": ""
     },
     {
       "Name": "Fulham",
-      "Flag": "http://45.77.171.72:2222/Flags/Fulham.png",
+      "Flag": "http://news2.eu:2222/Flags/Fulham.png",
       "Link": ""
     },
     {
       "Name": "Hull City",
-      "Flag": "http://45.77.171.72:2222/Flags/HullCity.png",
+      "Flag": "http://news2.eu:2222/Flags/HullCity.png",
       "Link": ""
     },
     {
       "Name": "Ipswich Town",
-      "Flag": "http://45.77.171.72:2222/Flags/IpswichTown.png",
+      "Flag": "http://news2.eu:2222/Flags/IpswichTown.png",
       "Link": ""
     },
     {
       "Name": "Leeds United",
-      "Flag": "http://45.77.171.72:2222/Flags/LeedsUnited.png",
+      "Flag": "http://news2.eu:2222/Flags/LeedsUnited.png",
       "Link": ""
     },
     {
       "Name": "Middlesbrough",
-      "Flag": "http://45.77.171.72:2222/Flags/Middlesbrough.png",
+      "Flag": "http://news2.eu:2222/Flags/Middlesbrough.png",
       "Link": ""
     },
     {
       "Name": "Millwall",
-      "Flag": "http://45.77.171.72:2222/Flags/Millwall.png",
+      "Flag": "http://news2.eu:2222/Flags/Millwall.png",
       "Link": ""
     },
     {
       "Name": "Norwich City",
-      "Flag": "http://45.77.171.72:2222/Flags/NorwichCity.png",
+      "Flag": "http://news2.eu:2222/Flags/NorwichCity.png",
       "Link": ""
     },
     {
       "Name": "Nottingham Forest",
-      "Flag": "http://45.77.171.72:2222/Flags/NottinghamForest.png",
+      "Flag": "http://news2.eu:2222/Flags/NottinghamForest.png",
       "Link": ""
     },
     {
       "Name": "Preston North End",
-      "Flag": "http://45.77.171.72:2222/Flags/PrestonNorthEnd.png",
+      "Flag": "http://news2.eu:2222/Flags/PrestonNorthEnd.png",
       "Link": ""
     },
     {
       "Name": "Queens Park Rangers",
-      "Flag": "http://45.77.171.72:2222/Flags/QueensParkRangers.png",
+      "Flag": "http://news2.eu:2222/Flags/QueensParkRangers.png",
       "Link": ""
     },
     {
       "Name": "Reading",
-      "Flag": "http://45.77.171.72:2222/Flags/Reading.png",
+      "Flag": "http://news2.eu:2222/Flags/Reading.png",
       "Link": ""
     },
     {
       "Name": "Sheffield United",
-      "Flag": "http://45.77.171.72:2222/Flags/SheffieldUnited.png",
+      "Flag": "http://news2.eu:2222/Flags/SheffieldUnited.png",
       "Link": ""
     },
     {
       "Name": "Sheffield Wednesday",
-      "Flag": "http://45.77.171.72:2222/Flags/SheffieldWednesday.png",
+      "Flag": "http://news2.eu:2222/Flags/SheffieldWednesday.png",
       "Link": ""
     },
     {
       "Name": "Sunderland",
-      "Flag": "http://45.77.171.72:2222/Flags/Sunderland.png",
+      "Flag": "http://news2.eu:2222/Flags/Sunderland.png",
       "Link": ""
     },
     {
       "Name": "Wolves",
-      "Flag": "http://45.77.171.72:2222/Flags/Wolves.png",
+      "Flag": "http://news2.eu:2222/Flags/Wolves.png",
       "Link": ""
     },
     {
@@ -293,7 +293,7 @@
       "type": "webView",
       "title":"World Cup 2018 Qualifiers Tables",
       "Stt": 20,
-      "link":"http://45.77.171.72:4141/Tables.aspx?file=world-cup-2018-qualifiers.txt",
+      "link":"http://news2.eu:4141/Tables.aspx?file=world-cup-2018-qualifiers.txt",
       "load":"url",
       "runScript":"",
       "show":"detail",
